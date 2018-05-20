@@ -13,3 +13,8 @@ function scuberGreetingForFeet(distance){
 function ternaryCheckCity(destination){
   return (destination === 'NYC' ? 'Ok, sounds good.' : 'No go.');
 }
+
+function switchOnCharmFromTip(){
+  let charm;
+  
+}
