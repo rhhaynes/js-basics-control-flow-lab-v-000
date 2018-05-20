@@ -23,7 +23,6 @@ function switchOnCharmFromTip(tip){
       'Thank you.';
       break;
     default:
-      'Bye.''
-      break;
+      'Bye.';
   }
 }
