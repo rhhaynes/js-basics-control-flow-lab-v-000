@@ -11,6 +11,5 @@ function scuberGreetingForFeet(distance){
 }
 
 function ternaryCheckCity(destination){
-  destination === 'NYC' ? '' : 'No can do.';
-  return destination;
+  return (destination === 'NYC' ? '' : 'No can do.');
 }
