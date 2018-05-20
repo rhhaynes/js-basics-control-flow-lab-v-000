@@ -1,5 +1,5 @@
 function scuberGreetingForFeet(distance){
-  let gretting;
+  let greeting;
   
   if distance <= 199 {
     greeting = 'This one is on me!'
