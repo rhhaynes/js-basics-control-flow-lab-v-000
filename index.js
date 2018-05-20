@@ -9,3 +9,8 @@ function scuberGreetingForFeet(distance){
   }
   return greeting;
 }
+
+function ternaryCheckCity(){
+  destination ? : 
+  return
+}
